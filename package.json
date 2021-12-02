@@ -1,6 +1,6 @@
 {
   "name": "@alphacep/ffi-napi",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "license": "MIT",
   "author": "Anna Henningsen <anna@addaleax.net>",
   "contributors": [
